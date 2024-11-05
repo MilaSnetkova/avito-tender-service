@@ -24,9 +24,9 @@ http://localhost:8080/api/ping
 
 1. В файле `dumb.env` нужно заменить пустые значения на реальные данные. 
 
-   `POSTGRES_PORT`       # Укажите порт для подключения 
-   `POSTGRES_HOST`        # Укажите хост
-   `POSTGRES_DATABASE`  # Укажите имя базы данных 
+   - `POSTGRES_PORT`       # Укажите порт для подключения 
+   - `POSTGRES_HOST`        # Укажите хост
+   - `POSTGRES_DATABASE`  # Укажите имя базы данных 
 
 
 ### Запуск тестов
